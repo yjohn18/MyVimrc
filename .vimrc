@@ -1,4 +1,4 @@
-" inspaired by https://github.com/wsdjeg/vim-galore-zh_cn/blob/master/contents/minimal-vimrc.vim
+" inspired by https://github.com/wsdjeg/vim-galore-zh_cn/blob/master/contents/minimal-vimrc.vim
 set nocompatible
 
 filetype plugin indent on
